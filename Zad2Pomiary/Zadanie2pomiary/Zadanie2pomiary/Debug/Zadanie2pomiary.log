@@ -1,0 +1,12 @@
+﻿  Tree.cpp
+C:\Users\nszwa\OneDrive\Pulpit\politechnika\Zadanie2pomiary\Zadanie2pomiary\Tree.h(22,25): warning C4099: "tree": nazwa typu najpierw widoczna przy użyciu "class" teraz widoczna przy użyciu "struct"
+C:\Users\nszwa\OneDrive\Pulpit\politechnika\Zadanie2pomiary\Zadanie2pomiary\Tree.h(8): message : zobacz deklarację „tree”
+C:\Users\nszwa\OneDrive\Pulpit\politechnika\Zadanie2pomiary\Zadanie2pomiary\Tree.h(24,25): warning C4099: "tree": nazwa typu najpierw widoczna przy użyciu "class" teraz widoczna przy użyciu "struct"
+C:\Users\nszwa\OneDrive\Pulpit\politechnika\Zadanie2pomiary\Zadanie2pomiary\Tree.h(8): message : zobacz deklarację „tree”
+C:\Users\nszwa\OneDrive\Pulpit\politechnika\Zadanie2pomiary\Zadanie2pomiary\Tree.h(26,25): warning C4099: "tree": nazwa typu najpierw widoczna przy użyciu "class" teraz widoczna przy użyciu "struct"
+C:\Users\nszwa\OneDrive\Pulpit\politechnika\Zadanie2pomiary\Zadanie2pomiary\Tree.h(8): message : zobacz deklarację „tree”
+C:\Users\nszwa\OneDrive\Pulpit\politechnika\Zadanie2pomiary\Zadanie2pomiary\Tree.h(28,27): warning C4099: "tree": nazwa typu najpierw widoczna przy użyciu "class" teraz widoczna przy użyciu "struct"
+C:\Users\nszwa\OneDrive\Pulpit\politechnika\Zadanie2pomiary\Zadanie2pomiary\Tree.h(8): message : zobacz deklarację „tree”
+C:\Users\nszwa\OneDrive\Pulpit\politechnika\Zadanie2pomiary\Zadanie2pomiary\Tree.h(30,26): warning C4099: "tree": nazwa typu najpierw widoczna przy użyciu "class" teraz widoczna przy użyciu "struct"
+C:\Users\nszwa\OneDrive\Pulpit\politechnika\Zadanie2pomiary\Zadanie2pomiary\Tree.h(8): message : zobacz deklarację „tree”
+  Zadanie2pomiary.vcxproj -> C:\Users\nszwa\OneDrive\Pulpit\politechnika\Zadanie2pomiary\Debug\Zadanie2pomiary.exe

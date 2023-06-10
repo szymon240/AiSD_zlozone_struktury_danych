@@ -1,0 +1,2 @@
+LiczbaElementow	Wysokosc
+1	1

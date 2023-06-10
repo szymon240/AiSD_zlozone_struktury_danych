@@ -1,0 +1,2 @@
+LiczbaElementow	Czas
+1	1200
